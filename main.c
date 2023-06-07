@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-// Artur - https://github.com/Artyev/calculator/tree/master
+// Artur - https://github.com/Artyev/calculator/tree/master some changes
 int main () {
   // variant #3
   int day2 = 1; // 1-31
